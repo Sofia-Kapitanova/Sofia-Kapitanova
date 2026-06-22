@@ -12,12 +12,12 @@ const sofia = {
 };
 ```
 
-### 🛠️ Стек & Инструменты
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" />
-  </a>
-</p>
+### 🛠️ Стек & Инструменты (Tech Stack)
+* 🟦 **TypeScript** & 🟨 **JavaScript (ES6+)**
+* ⚛️ **React** *(скоро в деталях)*
+* 🟧 **HTML5** & 🟩 **CSS3**
+* 🎛️ **Git** & **ООП**
+* 🎨 **Figma** & **VS Code**>
 
 ### 🔄 Текущие процессы (Active Tasks)
 - [x] Спроектировать и написать 8 крутых проектов
